@@ -1,0 +1,9 @@
+package com.seleniumexpress.employeeapp.entity;
+
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Entity {
+
+}

@@ -1,0 +1,8 @@
+package com.seleniumexpress.employeeapp.entity;
+
+
+
+@Entity
+public class Entity {
+
+}
